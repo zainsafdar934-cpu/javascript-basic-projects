@@ -6,11 +6,10 @@ A collection of beginner-friendly JavaScript projects built to strengthen my und
 
 ## 🚀 Projects Included
 
-| Project Name        | Description                                                       |
-| ------------------- | ----------------------------------------------------------------- |
-| Color Flipper       | Changes background color randomly or from a predefined list       |
-| Counter App         | Simple counter with increment, decrement, and reset functionality |
-| [Add your next one] | Describe what it does here                                        |
+| Project Name  | Description                                                       |
+| ------------- | ----------------------------------------------------------------- |
+| Color Flipper | Changes background color randomly or from a predefined list       |
+| Counter App   | Simple counter with increment, decrement, and reset functionality |
 
 ---
 
