@@ -6,13 +6,14 @@ A collection of beginner-friendly JavaScript projects built to strengthen my und
 
 ## 🚀 Projects Included
 
-| Project Name  | Description                                                            |
-| ------------- | ---------------------------------------------------------------------- |
-| Color Flipper | Changes background color randomly or from a predefined list            |
-| Counter App   | Simple counter with increment, decrement, and reset functionality      |
-| Review        | Displays user reviews with navigation buttons to cycle through entries |
-| Navbar        | Responsive navigation bar with toggle functionality for mobile view    |
-| Sidebar       | Responsive sidebar navigation with collapsible menu items              |
+| Project Name  | Description                                                                  |
+| ------------- | ---------------------------------------------------------------------------- |
+| Color Flipper | Changes background color randomly or from a predefined list                  |
+| Counter App   | Simple counter with increment, decrement, and reset functionality            |
+| Review        | Displays user reviews with navigation buttons to cycle through entries       |
+| Navbar        | Responsive navigation bar with toggle functionality for mobile view          |
+| Sidebar       | Responsive sidebar navigation with collapsible menu items                    |
+| Modal         | Displays a popup modal window with open/close functionality using JavaScript |
 
 ---
 
