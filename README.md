@@ -14,6 +14,7 @@ A collection of beginner-friendly JavaScript projects built to strengthen my und
 | Navbar        | Responsive navigation bar with toggle functionality for mobile view          |
 | Sidebar       | Responsive sidebar navigation with collapsible menu items                    |
 | Modal         | Displays a popup modal window with open/close functionality using JavaScript |
+| Questions     | FAQ-style section with collapsible answers triggered by button toggles       |
 
 ---
 
