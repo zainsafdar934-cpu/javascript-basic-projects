@@ -15,6 +15,7 @@ A collection of beginner-friendly JavaScript projects built to strengthen my und
 | Sidebar       | Responsive sidebar navigation with collapsible menu items                    |
 | Modal         | Displays a popup modal window with open/close functionality using JavaScript |
 | Questions     | FAQ-style section with collapsible answers triggered by button toggles       |
+| Menu          | Displays a dynamic restaurant menu with category-based filtering             |
 
 ---
 
